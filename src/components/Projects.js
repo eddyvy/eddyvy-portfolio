@@ -19,11 +19,11 @@ export const Projects = () => {
         <div id="projects" className="d-flex flex-column align-items-center justify-content-start pb-5 pt-3 text-center" style={ projectsStyle }>
             {
                 ( lang === 'english' )
-                && ( <h2 className="fw-bolder mt-5 mb-5">My Projects</h2> )
+                && ( <h2 className="fw-bolder mt-5 mb-5">My Personal Projects</h2> )
             }
             {
                 ( lang === 'spanish' )
-                && ( <h2 className="fw-bolder mt-5 mb-5">Mis Proyectos</h2> )
+                && ( <h2 className="fw-bolder mt-5 mb-5">Mis Proyectos Personales</h2> )
             }
             <div className="d-flex flex-wrap justify-content-evenly mt-5">
                 {

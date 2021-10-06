@@ -53,7 +53,7 @@ export const Landing = () => {
                     && (
                         <div className="d-flex flex-column align-items-center justify-content-center text-center p-5 m-5" style={ infoStyle }>
                             <h2 className="p-2 animate__animated animate__fadeIn animate__faster">Eduard Valls</h2>
-                            <span className="p-2 animate__animated animate__fadeIn animate__faster">Front End Developer</span>
+                            <span className="p-2 animate__animated animate__fadeIn animate__faster">Software Developer</span>
                             <span className="p-2 animate__animated animate__fadeIn animate__faster">Computer Science Student</span>
                             <span className="p-2 animate__animated animate__fadeIn animate__faster">AeroSpace Engineer</span>
                             <span className="p-2 animate__animated animate__fadeIn animate__faster">Pilot</span>
@@ -65,7 +65,7 @@ export const Landing = () => {
                     && (
                         <div className="d-flex flex-column align-items-center justify-content-center text-center p-5 m-5" style={ infoStyle }>
                             <h2 className="p-2 animate__animated animate__fadeIn animate__faster">Eduard Valls</h2>
-                            <span className="p-2 animate__animated animate__fadeIn animate__faster">Desarrollador Front End</span>
+                            <span className="p-2 animate__animated animate__fadeIn animate__faster">Desarrollador de Software</span>
                             <span className="p-2 animate__animated animate__fadeIn animate__faster">Estudiante de Ingeniería Informática</span>
                             <span className="p-2 animate__animated animate__fadeIn animate__faster">Ingeniero Aeroespacial</span>
                             <span className="p-2 animate__animated animate__fadeIn animate__faster">Piloto</span>

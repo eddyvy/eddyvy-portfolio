@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react'
 
-import cvEng from '../assets/CV-EduardValls-may2021-eng.pdf'
+import cvEng from '../assets/CV-EduardValls-oct2021-eng.pdf'
 import cvSpa from '../assets/CV-EduardValls-may2021-esp.pdf'
 
 import { palette } from '../data/palette'
@@ -62,7 +62,7 @@ export const About = () => {
                                 <h6 className="card-title m-2">Self-taught developer</h6>
                                 <h6 className="card-title m-2">Passionate of coding</h6>
                                 <h6 className="card-title m-2">Started Computer Science Feb 2021</h6>
-                                <h6 className="card-title m-2">No working experience as developer</h6>
+                                <h6 className="card-title m-2">With experience as developer</h6>
                             </div>
                         )
                     }
@@ -74,7 +74,7 @@ export const About = () => {
                                 <h6 className="card-title m-2">Desarrollador Autodidacta</h6>
                                 <h6 className="card-title m-2">Apasionado del código</h6>
                                 <h6 className="card-title m-2">Inicio de Ing. Informática Feb 2021</h6>
-                                <h6 className="card-title m-2">Sin experiencia laboral como desarrollador</h6>
+                                <h6 className="card-title m-2">Con experiencia laboral como desarrollador</h6>
                             </div>
                         )
                     }
